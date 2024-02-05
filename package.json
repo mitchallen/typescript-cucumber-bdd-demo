@@ -5,8 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "clean": "rm -rf dist && rm tsconfig.tsbuildinfo || true",
-    "// test": "cucumber-js test/features/*.feature",
+    "clean": "rm -rf dist",
     "test": "cucumber-js"
   },
   "keywords": [],
