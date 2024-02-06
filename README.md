@@ -5,7 +5,7 @@ A demo of how to test a TypeScript library with Cucumber BDD.
 
 ## See Related Article
 
-* [TypeScript Cucumber BDD (Tutorial)](https://scriptable.com/typescript/typescript-cucumber-bdd)
+* [TypeScript Cucumber BDD (Tutorial, Mac)](https://scriptable.com/typescript/typescript-cucumber-bdd)
 
 ## Usage 
 
