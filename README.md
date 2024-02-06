@@ -31,7 +31,7 @@ touch src/index.ts
 Command line step for setting up testing:
 
 ```sh
-npm install --save-dev @cucumber/cucumber ts-node @types/cucumber
+npm install --save-dev @cucumber/cucumber ts-node 
 touch cucumber.js
 mkdir -p test/features
 mkdir -p test/step-definitions
